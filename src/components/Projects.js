@@ -1,7 +1,7 @@
-import minimalista from '../assets/minimalista.jpg';
-import Planet_Rescue from '../assets/Planet_Rescue.jpg';
-import Real_Estate from '../assets/Real_Estate.png';
-import Medical_nft from '../assets/Medical_nft.png';
+import minimalista from '../assets/minimalista.jpeg';
+import Planet_Rescue from '../assets/Planet_Rescue.jpeg';
+import Real_Estate from '../assets/Real_Estate.jpeg';
+import Medical_nft from '../assets/Medical_nft.jpeg';
 import DeFi_Bank from '../assets/DeFi_Bank.jpeg';
 
 const Projects = () => {
