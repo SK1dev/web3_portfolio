@@ -19,7 +19,7 @@ const Skills = () => {
                 <br></br>
                         <li>Good knowledge of most prominent ERC/EIP Ethereum standards. ERC-20 / 721 / 777 / 1155 and others.</li>
                 <br></br>
-                        <li>Agile/Scrum, Jira, Git, security & privacy.</li>
+                        <li>Agile/Scrum, Jira, Git, Security & Privacy.</li>
                 <br></br>
                         <li>MongoDB, Firebase, Google Cloud Platform and Sanity.</li>
                 <br></br>

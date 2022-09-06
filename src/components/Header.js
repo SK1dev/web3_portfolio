@@ -17,12 +17,12 @@ const Header = () => {
                             <a href='mailto:sk374@protonmail.com' className='button'>Email</a>
                     <br></br>
                     <br></br>
-                            <small><a href ="https://link.storjshare.io/jwgnwslj3xurogkc2u5o2crg32zq/portfolio-bucket%2FSakari_CV.pdf" attributes-list>CV</a></small>
+                            <a className="storj-link" href ="https://link.storjshare.io/jwgnwslj3xurogkc2u5o2crg32zq/portfolio-bucket%2FSakari_CV.pdf" attributes-list>CV</a>
                     <br></br>   
-                            <small><a href ="https://link.storjshare.io/jxhwbyojqa2keiygiswdueu2pesa/portfolio-bucket%2FSakari_Covering_Letter.pdf" attributes-list>Covering Letter</a></small>
+                        <a className="storj-link" href ="https://link.storjshare.io/jxhwbyojqa2keiygiswdueu2pesa/portfolio-bucket%2FSakari_Covering_Letter.pdf" attributes-list>Covering Letter</a>
                     <br></br>
                     <br></br>
-                            <small>📍 London, United Kingdom/Globally Remote</small>
+                            <small>📍 London, UK/Globally Remote</small>
                             
             </div>
 

@@ -1,6 +1,6 @@
 import minimalista from '../assets/minimalista.jpeg';
 import Planet_Rescue from '../assets/Planet_Rescue.jpeg';
-import Real_Estate from '../assets/Real_Estate.jpeg';
+import Real_Estate from '../assets/RealEstate.jpeg';
 import Medical_nft from '../assets/Medical_nft.jpeg';
 import DeFi_Bank from '../assets/DeFi_Bank.jpeg';
 
