@@ -15,6 +15,7 @@ const Header = () => {
                 </p>
                     <br></br>
                             <a href='mailto:sk374@protonmail.com' className='button'>Email</a>
+                            <a href='https://www.calendly.com/sakari_blockchain_developer/' target="_blank" className='button'>Meeting</a>
                     <br></br>
                     <br></br>
                             <a className="storj-link" href ="https://link.storjshare.io/jx4x5qsb3t26bsmzsfgimz3wrvza/portfolio-bucket%2FSakari_CV.pdf" attributes-list>CV</a>

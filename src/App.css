@@ -34,7 +34,40 @@ code {
   padding: 50px 25px 25px;
 }
 
-/* ------------------------------------------------------ */
+/* -- Navbar -- */
+.backToTop {
+  border-radius: 50%;
+  background-color: #6fdbff;
+  padding: 10px 12px;
+  float: right;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.backToTop svg {
+  font-size: 20px;
+}
+#navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px 60px 0 0;
+}
+#navbar ul li {
+  margin: 0 30px;
+  font-size: 14px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#navbar ul li a {
+  font-family: "Lato", sans-serif;
+  color: #000000;
+  text-decoration: none;
+}
+
+#navbar ul li a:hover {
+  text-decoration: underline;
+}
+
 /* -- Header -- */
 
 .header {
@@ -48,9 +81,7 @@ code {
 .header img {
   max-width: 300px;
   height: auto;
-
   margin: 20px auto;
-
   border-radius: 50%;
 }
 
