@@ -18,9 +18,9 @@ const Header = () => {
                             <a href='https://www.calendly.com/sakari_blockchain_developer/' target="_blank" className='button'>Meeting</a>
                     <br></br>
                     <br></br>
-                            <a className="storj-link" href ="https://link.storjshare.io/jx4x5qsb3t26bsmzsfgimz3wrvza/portfolio-bucket%2FSakari_CV.pdf" attributes-list>CV</a>
+                            <a className="storj-link" target="_blank" href="https://link.storjshare.io/jx4x5qsb3t26bsmzsfgimz3wrvza/portfolio-bucket%2FSakari_CV.pdf" attributes-list>CV</a>
                     <br></br>   
-                        <a className="storj-link" href ="https://link.storjshare.io/jxhwbyojqa2keiygiswdueu2pesa/portfolio-bucket%2FSakari_Covering_Letter.pdf" attributes-list>Covering Letter</a>
+                        <a className="storj-link" target="_blank" href="https://link.storjshare.io/jxhwbyojqa2keiygiswdueu2pesa/portfolio-bucket%2FSakari_Covering_Letter.pdf" attributes-list>Covering Letter</a>
                     <br></br>
                     <br></br>
                             <small>📍 London, UK/Globally Remote</small>

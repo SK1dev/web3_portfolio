@@ -237,3 +237,10 @@ code {
     width: 350px;
   }
 }
+
+@media screen and (max-width: 416px) {
+  .header__content .button {
+    margin-top: 15px;
+    min-width: 165px;
+  }
+}
