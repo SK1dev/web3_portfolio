@@ -5,7 +5,7 @@ const About = () => {
 
             <h2>About Me</h2>
             <p>
-                Smart Contract & Blockchain Developer with 1+ year of experience, writing Smart Contracts and building Fullstack projects.
+                Smart Contract & Blockchain Developer with 1+ year of experience, writing Smart Contracts and building fullstack projects.
             </p>
             <br></br>
             <p>

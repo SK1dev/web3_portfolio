@@ -46,6 +46,39 @@ code {
 .backToTop svg {
   font-size: 20px;
 }
+
+#nav-small {
+  display: none;
+}
+#nav-small .menu-icon {
+  background: none;
+  border: none;
+  font-size: 20px;
+  padding: 15px;
+}
+#nav-small .menu-icon svg path {
+  background: none;
+  border: none;
+}
+#nav-small-content {
+  background-color: rgb(202, 197, 197);
+  width: 150px;
+  height: 200px;
+  padding: 20px;
+  list-style-type: none;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+#nav-small-content li {
+  margin: 15px 0;
+  cursor: pointer;
+}
+#nav-small-content li a:hover {
+  text-decoration: underline;
+}
+#navbar {
+  display: block;
+}
 #navbar ul {
   list-style-type: none;
   display: flex;
@@ -74,7 +107,6 @@ code {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-
   text-align: center;
 }
 
@@ -137,6 +169,11 @@ code {
 
 /* -- Projects -- */
 
+.nft-bridge-steps {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
 .projects h2 {
   font-size: 42px;
   margin: 25px auto;
@@ -178,7 +215,6 @@ code {
   width: 100%;
   height: auto;
   margin: 20px 0 10px;
-
   border-radius: 8px;
 }
 
@@ -209,21 +245,15 @@ code {
 
 .button {
   display: inline-block;
-
   background: #6fdbff;
-
   padding: 15px 50px;
-
   border: none;
   border-radius: 8px;
-
   font-family: "Work Sans";
   font-size: 16px;
   font-weight: 500;
   text-decoration: none;
-
   cursor: pointer;
-
   transition: all 250ms ease;
 }
 
@@ -235,6 +265,14 @@ code {
 @media screen and (max-width: 768px) {
   .projects__cards .projects__card {
     width: 350px;
+  }
+}
+@media screen and (max-width: 555px) {
+  #navbar {
+    display: none;
+  }
+  #nav-small {
+    display: block;
   }
 }
 
