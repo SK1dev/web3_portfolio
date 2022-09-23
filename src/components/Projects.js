@@ -5,13 +5,14 @@ import Medical_nft from "../assets/Medical_nft.jpeg";
 import DeFi_Bank from "../assets/DeFi_Bank.jpeg";
 import nft_bridge from "../assets/nft-bridge.jpeg";
 import staking from "../assets/staking.jpeg";
+import airdrop from "../assets/airdrop.jpeg";
 
 const Projects = () => {
   return (
     <section className="projects">
       <h2>My Projects</h2>
-
       <div className="projects__cards">
+
         <div className="projects__card">
           <h3>NFT Bridge</h3>
           <img src={nft_bridge} alt="NFT Bridge" />
@@ -32,6 +33,24 @@ const Projects = () => {
           </ol>
           <a
             href="https://github.com/SK374/nft-bridge"
+            target="_blank"
+            className="button"
+          >
+            Code
+          </a>
+        </div>
+
+        <div className="projects__card">
+          <h3>DeFi Bank</h3>
+          <img src={DeFi_Bank} alt="DeFi Bank" />
+          <p>
+            A minimalistic <strong>decentralised banking</strong> platform.
+          </p>
+          <p>Includes whitelisted symbols.</p>
+          <p>Users can deposit and withdraw ETH, MATIC and USDT.</p>
+
+          <a
+            href="https://github.com/SK374/defi-bank"
             target="_blank"
             className="button"
           >
@@ -67,16 +86,21 @@ const Projects = () => {
         </div>
 
         <div className="projects__card">
-          <h3>DeFi Bank</h3>
-          <img src={DeFi_Bank} alt="DeFi Bank" />
+          <h3>Airdrop Server</h3>
+          <img src={airdrop} alt="Airdrop Server" />
           <p>
-            A minimalistic <strong>decentralised banking</strong> platform.
+            <strong>ERC20-AirdropServer</strong>
           </p>
-          <p>Includes whitelisted symbols.</p>
-          <p>Users can deposit and withdraw ETH, MATIC and USDT.</p>
-
+          <p>
+            Airdrop Server to reward NFT holders with recurring erc20 token rewards once a month!</p>
+          <p>
+            <strong>Web3-Security-Hide-Private-Keys-NextJS</strong> 
+          </p>
+          <p>
+            Server Side Rendering to properly hide private keys in Web3 dev front-ends.
+          </p>
           <a
-            href="https://github.com/SK374/defi-bank"
+            href="https://github.com/SK374/airdrop-server"
             target="_blank"
             className="button"
           >
