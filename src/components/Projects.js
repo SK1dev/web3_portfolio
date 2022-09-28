@@ -22,7 +22,7 @@ const Projects = () => {
               <strong>EthersJS</strong>
           </p>
           <p>
-           A decentralised exchange (DEX) with a clean modern UI and a strong focus on UX.
+           A decentralized exchange (DEX) with a clean modern UI and a strong focus on UX.
           </p>
           <p>Interactive trading graph.</p> 
           <p>Allows users to place limit and market orders.</p>
@@ -67,7 +67,7 @@ const Projects = () => {
           <h3>DeFi Bank</h3>
           <img src={DeFi_Bank} alt="DeFi Bank" />
           <p>
-            A minimalistic <strong>decentralised banking</strong> platform.
+            A minimalistic <strong>decentralized banking</strong> platform.
           </p>
           <p>Includes whitelisted symbols.</p>
           <p>Users can deposit and withdraw ETH, MATIC and USDT.</p>
@@ -112,15 +112,12 @@ const Projects = () => {
           <h3>Airdrop Server</h3>
           <img src={airdrop} alt="Airdrop Server" />
           <p>
-            <strong>ERC20-AirdropServer</strong>
+            <strong>ERC20-AirdropServer - NextJS</strong>
           </p>
           <p>
             Airdrop Server to reward NFT holders with recurring erc20 token rewards once a month!</p>
           <p>
-            <strong>Web3-Security-Hide-Private-Keys-NextJS</strong> 
-          </p>
-          <p>
-            Server Side Rendering to properly hide private keys in Web3 dev front-ends.
+            Server Side Rendering to properly hide private keys in the frontend.
           </p>
           <a
             href="https://github.com/SK374/airdrop-server"
@@ -139,7 +136,7 @@ const Projects = () => {
             can register and view a list of patients and set up appointments.
           </p>
           <p>
-            Medical professionals can only view a Patient’s health record if
+            Medical professionals can only view a patient’s health record if
             they have been granted access.
           </p>
           <p>A Patient can revoke access at any time.</p>
@@ -161,7 +158,7 @@ const Projects = () => {
           <h3>Real Estate</h3>
           <img src={Real_Estate} alt="Real Estate" />
           <p>
-            <strong>Decentralised real estate</strong>
+            <strong>Decentralized real estate</strong>
           </p>
           <p>
             <strong>Escrow Smart Contract </strong>and{" "}
