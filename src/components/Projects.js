@@ -6,12 +6,35 @@ import DeFi_Bank from "../assets/DeFi_Bank.jpeg";
 import nft_bridge from "../assets/nft-bridge.jpeg";
 import staking from "../assets/staking.jpeg";
 import airdrop from "../assets/airdrop.jpeg";
+import dex from "../assets/dex.jpeg"
 
 const Projects = () => {
   return (
     <section className="projects">
       <h2>My Projects</h2>
       <div className="projects__cards">
+
+      <div className="projects__card">
+          <h3>DEX</h3>
+          <img src={dex} alt="DEX" />
+          <p>
+              <strong>DEX</strong> with <strong>React</strong> and{" "}
+              <strong>EthersJS</strong>
+          </p>
+          <p>
+           A decentralised exchange (DEX) with a clean modern UI and a strong focus on UX.
+          </p>
+          <p>Interactive trading graph.</p> 
+          <p>Allows users to place limit and market orders.</p>
+          <p>I'm currently working on this project.</p>
+          <a
+            href="https://github.com/SK374/dex"
+            target="_blank"
+            className="button"
+          >
+            Code
+          </a>
+        </div>
 
         <div className="projects__card">
           <h3>NFT Bridge</h3>
