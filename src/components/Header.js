@@ -33,7 +33,7 @@ const Header = () => {
         </a>
         <br></br>
         <br></br>
-        <small>📍 London, UK/Globally Remote</small>
+        <small>📍 United Kingdom/Remote</small>
       </div>
     </section>
   );

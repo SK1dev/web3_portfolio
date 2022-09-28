@@ -13,7 +13,7 @@ const About = () => {
             </p>
                 <br></br>
             <p>
-                Ability to quickly learn new technologies and strong passion for Blockchain Development.
+                Ability to quickly learn new technologies and a strong passion for Blockchain Development.
             </p>
                 <br></br>
             <p>
