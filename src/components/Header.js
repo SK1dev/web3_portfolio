@@ -17,7 +17,7 @@ const Header = () => {
         <a
           className="storj-link"
           target="_blank"
-          href="https://link.storjshare.io/jvfo2tbb67mfblpsomm5ktr2dkxa/portfolio-bucket%2FSakari_CV.pdf"
+          href="https://link.storjshare.io/jvpxw7okhdvvz4bgjq2xe24e7lna/portfolio-bucket%2FSakari_CV(2).pdf"
           attributes-list
         >
           CV
@@ -26,14 +26,14 @@ const Header = () => {
         <a
           className="storj-link"
           target="_blank"
-          href="https://link.storjshare.io/ju6luerpatxq4h5jsd4dcc7em52q/portfolio-bucket%2FSakari_Covering_Letter.pdf"
+          href="https://link.storjshare.io/ju4pvwocdfdp2izqyawrd2yhinja/portfolio-bucket%2FSakari_Covering_Letter.pdf"
           attributes-list
         >
           Covering Letter
         </a>
         <br></br>
         <br></br>
-        <small>📍 United Kingdom/Remote</small>
+        <small>📍 UK/France/Remote</small>
       </div>
     </section>
   );
