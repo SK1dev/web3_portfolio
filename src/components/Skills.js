@@ -15,7 +15,7 @@ const Skills = () => {
         <br></br>
         <li>
           <strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), 
-          Assembly(Yul), JavaScript (React.js, Redux, Next.js and Node.js), 
+          Yul & Assembly, JavaScript (React.js, Redux, Next.js and Node.js), 
           HTML, CSS, Kotlin and Dart.
         </li>
         <br></br>
