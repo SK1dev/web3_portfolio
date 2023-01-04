@@ -5,17 +5,18 @@ const Skills = () => {
       <p>
         <li>
           Good technological understanding of Ethereum (EVM), including
-          Blockchain Oracles.
+          the Ethereum Yellow Paper to determine gas costs.
         </li>
         <br></br>
         <li>
-          Understanding of cryptography in Blockchain and L2 Technologies.
+          Understanding of cryptography in Blockchain, L2 Technologies,
+          Gas Optimization and Smart Contract Security and Vulnerabilities.
         </li>
         <br></br>
         <li>
-          <strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs),
-          JavaScript (React.js, Next.js and Node.js), HTML, CSS, Kotlin and
-          Dart.
+          <strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), 
+          Assembly(Yul), JavaScript (React.js, Redux, Next.js and Node.js), 
+          HTML, CSS, Kotlin and Dart.
         </li>
         <br></br>
         <li>
